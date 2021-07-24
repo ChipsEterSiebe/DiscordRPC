@@ -5,10 +5,10 @@ require ('dotenv').config();
 (async () => {
     client.on('ready', async () => {
         await client.setActivity({
-            buttons: [{ label: "Discord", url: "https://discord.gg/QSeJ5x9X" }] ,
-            detals: "De OP-MT van nu!",
-            largeImageKey: "milrato",
-            largeImageText: ".gg/grandmt"
+            buttons: [{ label: "Button1", url: "urlbutton1"},{label : "Button2" , url : "Urlbutton2"}] ,
+            detals: "descripton!",
+            largeImageKey: "image name",
+            largeImageText: "imagetext"
         }).catch(err => console.log(err));
 
         console.log("Discord Rick Prescence has been enabled. Made by ! Siebe#7799");
