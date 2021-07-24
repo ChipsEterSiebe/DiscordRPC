@@ -11,7 +11,7 @@ require ('dotenv').config();
             largeImageText: "imagetext"
         }).catch(err => console.log(err));
 
-        console.log("Discord Rick Prescence has been enabled. Made by ! Siebe#7799");
+        console.log("Discord Rich Prescence has been enabled. Made by ! Siebe#7799");
     });
 
     await client.login({ clientId: process.env.applicationID }).catch(console.error);
