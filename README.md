@@ -29,7 +29,7 @@ DiscordRPC let's you have a custom discord status with clickable buttons!
 
 7. Paste the application ID in the .env file. Paste the application ID instead of the X's
 
-[Dimmer_9FkcSWSWly](https://user-images.githubusercontent.com/78964881/126852893-6cad6d03-1746-4011-8297-38b3392cca49.png)
+![image](https://user-images.githubusercontent.com/78964881/126866885-32ebe69b-ca28-4760-86f9-3825c78accc1.png)
 
 8. Open an terminal in visual studio code and type npm install.
 9. Open the index.js file.
